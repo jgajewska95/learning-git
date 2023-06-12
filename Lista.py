@@ -16,5 +16,6 @@ for sublist in values:
     # flat_list += sublist
 print(f"w sumie kupuję {count} produktów")
 result = len(Lista_zakupów)
-print (f'W sumie idę do {result} sklepów')
+print(f'W sumie idę do {result} sklepów')
 
+print('hello')
